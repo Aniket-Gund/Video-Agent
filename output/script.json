@@ -1,0 +1,34 @@
+{
+  "topic": "Kubernetes Ingress Controllers",
+  "selected_option": 1,
+  "style_name": "Hacker Reel",
+  "title": "Kubernetes Ingress Controllers: Hacker Reel Edition",
+  "tagline": "Unlock extreme speed in 60 seconds",
+  "estimated_duration": 15.5,
+  "scenes": [
+    {
+      "scene_id": "intro",
+      "scene_type": "intro",
+      "narration": "Fast hacker breakdown intro",
+      "audio_duration": 3.5
+    },
+    {
+      "scene_id": "concept",
+      "scene_type": "concept",
+      "narration": "Core mechanism analysis",
+      "audio_duration": 4.5
+    },
+    {
+      "scene_id": "code_execution",
+      "scene_type": "code_execution",
+      "narration": "Live terminal benchmark demo",
+      "audio_duration": 5.0
+    },
+    {
+      "scene_id": "outro",
+      "scene_type": "outro",
+      "narration": "Summary and next steps",
+      "audio_duration": 2.5
+    }
+  ]
+}

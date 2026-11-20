@@ -1,0 +1,56 @@
+{
+  "topic": "AsyncIO in Python",
+  "selected_option": 1,
+  "style_name": "Hacker Reel",
+  "estimated_duration": 21.864,
+  "scenes": [
+    {
+      "scene_id": "scene_001_intro",
+      "scene_type": "intro",
+      "narration": "Discover high performance with AsyncIO in Python.",
+      "visual_prompt": "Title card displaying AsyncIO in Python in Hacker Reel aesthetic",
+      "code_snippet": null,
+      "command": null,
+      "audio_file": "C:\\Users\\anike\\AppData\\Local\\Temp\\va_stage_q3zkyno8\\option_1_audio\\scene_001_intro.mp3",
+      "audio_duration": 4.104,
+      "subtitles_srt": "C:\\Users\\anike\\AppData\\Local\\Temp\\va_stage_q3zkyno8\\option_1_subtitles\\scene_001_intro.srt",
+      "visual_clip": null
+    },
+    {
+      "scene_id": "scene_001_concept",
+      "scene_type": "concept",
+      "narration": "At its core, AsyncIO in Python enables core architectural principles enable reliable scalability and.",
+      "visual_prompt": "Educational diagram demonstrating core mechanisms of AsyncIO in Python",
+      "code_snippet": null,
+      "command": null,
+      "audio_file": "C:\\Users\\anike\\AppData\\Local\\Temp\\va_stage_q3zkyno8\\option_1_audio\\scene_001_concept.mp3",
+      "audio_duration": 7.776,
+      "subtitles_srt": "C:\\Users\\anike\\AppData\\Local\\Temp\\va_stage_q3zkyno8\\option_1_subtitles\\scene_001_concept.srt",
+      "visual_clip": null
+    },
+    {
+      "scene_id": "scene_001_demo",
+      "scene_type": "code_execution",
+      "narration": "Watch how we execute with AsyncIO in Python in real time.",
+      "visual_prompt": "Terminal recording executing code snippet for AsyncIO in Python",
+      "code_snippet": "# AsyncIO in Python \u2014 basic demonstration\ndef demonstrate_asyncio():\n    \"\"\"Show the core concept of AsyncIO in Python.\"\"\"\n    print(f\"Starting AsyncIO in Python demonstration...\")\n\n    # Core logic placeholder\n    result = {\n        \"topic\": \"AsyncIO in Python\",\n        \"status\": \"success\",\n        \"detail\": \"Core concept demonstrated\",\n    }\n    return result\n\nif __name__ == \"__main__\":\n    output = demonstrate_asyncio()\n    print(f\"Result: {output}\")\n",
+      "command": "python demo.py",
+      "audio_file": "C:\\Users\\anike\\AppData\\Local\\Temp\\va_stage_q3zkyno8\\option_1_audio\\scene_001_demo.mp3",
+      "audio_duration": 4.776,
+      "subtitles_srt": "C:\\Users\\anike\\AppData\\Local\\Temp\\va_stage_q3zkyno8\\option_1_subtitles\\scene_001_demo.srt",
+      "visual_clip": null
+    },
+    {
+      "scene_id": "scene_001_outro",
+      "scene_type": "outro",
+      "narration": "Follow for daily patterns on Mastering AsyncIO in Python starts with.",
+      "visual_prompt": "Summary takeaway screen and call-to-action for AsyncIO in Python",
+      "code_snippet": null,
+      "command": null,
+      "audio_file": "C:\\Users\\anike\\AppData\\Local\\Temp\\va_stage_q3zkyno8\\option_1_audio\\scene_001_outro.mp3",
+      "audio_duration": 5.208,
+      "subtitles_srt": "C:\\Users\\anike\\AppData\\Local\\Temp\\va_stage_q3zkyno8\\option_1_subtitles\\scene_001_outro.srt",
+      "visual_clip": null
+    }
+  ]
+}

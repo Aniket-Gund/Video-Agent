@@ -1,0 +1,19 @@
+{
+  "topic": "Kubernetes Ingress Controllers",
+  "created_at": "2026-11-12T20:13:52.567736+00:00",
+  "selected_style": "Hacker Reel",
+  "duration": 15.5,
+  "aspect_ratio": "9:16",
+  "formats": [
+    "9:16"
+  ],
+  "video_files": [
+    "kubernetes_ingress_controllers_vertical_9x16.mp4"
+  ],
+  "artifacts": {
+    "research": "research.json",
+    "script": "script.json",
+    "metadata": "metadata.json"
+  },
+  "status": "completed"
+}

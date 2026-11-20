@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+
+# Agent internal scratch & coordination
+.agents/
+scratch/
+test_bench_*
+temp_*
+
+# Generated test/output media (prevent large repo bloat)
+output/*.mp4
+output/**/*.mp4
+*.mp4
+!Reference Videos/*.mp4
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

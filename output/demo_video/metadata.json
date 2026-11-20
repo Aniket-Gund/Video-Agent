@@ -1,0 +1,18 @@
+{
+  "topic": "AsyncIO in Python",
+  "created_at": "2026-11-14T16:01:42.896942+00:00",
+  "selected_style": "Hacker Reel",
+  "style": "Hacker Reel",
+  "duration": 21.864,
+  "video_files": [
+    "asyncio_in_python_vertical_9x16.mp4",
+    "asyncio_in_python_horizontal_16x9.mp4"
+  ],
+  "formats": [
+    "9:16",
+    "16:9"
+  ],
+  "aspect_ratio": "dual",
+  "status": "completed",
+  "output_dir": "output\\demo_video"
+}
